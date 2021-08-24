@@ -1,0 +1,30 @@
+.web{
+    /* padding-top: 20px; */
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.header {
+    border-bottom: 1px solid #cc0e0e;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    /* position: relative; */
+}
+.nav{
+    background: black;
+    display: flex;
+    width: 1200px;
+    height: auto;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    justify-content: center;
+}
+.time{
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+    font-weight: 700;
+    color: #cc0e0e;
+}
