@@ -29,7 +29,7 @@
     color: #cc0e0e;
 }
 
-img {
+/* img {
     width: 100%;
   }
   
@@ -42,7 +42,7 @@ img {
     background-color: white;
   }
   
-  /* General styles */
+  /* General styles 
   .sim-slider {
     position: relative;
   }
@@ -65,7 +65,7 @@ img {
     display: block;
   }
   
-  /* Navigation item styles */
+  /* Navigation item styles 
   div.sim-slider-arrow-left,
   div.sim-slider-arrow-right {
     width: 22px;
@@ -117,4 +117,4 @@ img {
     background-color: #BBB;
     border-radius: 5px;
     cursor: pointer;
-  }
+  } */
